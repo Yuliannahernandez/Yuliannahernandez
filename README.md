@@ -5,7 +5,7 @@
 **Computer Science Student · Full-Stack Developer · UI Designer**
 Colegio Universitario de Cartago — Costa Rica
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A3E635&center=true&vCenter=true&width=500&lines=Building+systems+that+solve+real+problems;Node.js+%7C+React+%7C+NestJS+%7C+C#;Clean+UI%2C+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A3E635&center=true&vCenter=true&width=500&lines=Building+systems+that+solve+real+problems;Node.js+%7C+React+%7C+NestJS+%7C+C%23;Clean+UI%2C+clean+code)](https://git.io/typing-svg)
 
 </div>
 
